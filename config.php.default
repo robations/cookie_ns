@@ -1,0 +1,16 @@
+<?php
+
+$cookieNonsenseSettings = array(
+    // Box heading text:
+    'heading' => 'This website is using cookies',
+    // Address of privacy or cookie policy:
+    'policy_url' => null,
+    // Link text to use to policy:
+    'policy_link_text' => 'View our privacy policy',
+    // Path to this dir relative to webroot (w/o closing slash):
+    'webpath' => '/cookie_ns',
+    // Button text:
+    'button_text' => 'Agree and close &#x2573;',
+    // Cookie name to save preference:
+    'cookie_name' => 'cookie_use_agreed',
+);
