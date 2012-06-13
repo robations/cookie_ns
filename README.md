@@ -24,8 +24,8 @@ Add include statements to your template file(s):
 
 You will probably need to adjust the path, depending on your directory structure.
 
-Copy config.php.default as config.php and edit the configuration (you can set a
-link to your privacy policy and edit text).
+Copy `config.php.default` as `config.php` and edit the configuration (you can set a
+link to your privacy policy and edit other text values).
 
 You can edit the inline styles in notice.php or override them in your stylesheet
 (class names have been set for most elements).
